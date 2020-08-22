@@ -2,11 +2,10 @@ module.exports = {
   defaultTitle: 'Christopher Alexander',
   logo: 'public/favicon/favicon-512.png',
   author: 'Christopher Alexander',
-  url: 'https://christopher-alexander.com',
+  url: 'https://christopheralexander-portfolio.com/',
   legalName: 'Christopher Alexander',
   defaultDescription: 'I’m Christopher and I’m a Backend & Devops engineer!',
   socialLinks: {
-    twitter: 'http://www.twitter.com/smakosh',
     github: 'https://github.com/christopher3108',
     linkedin: 'https://linkedin.com/in/christopher-alexander-062644153',
     instagram: 'https://instagram.com/christopheralexanderl',
