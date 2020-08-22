@@ -40,11 +40,26 @@ export const Item = styled.div`
     font-weight: 900;
     font-size: 14pt;
     text-overflow: ellipsis;
+    
+    @media (max-width: 960px) {
+      width: 100%;
+    }
+  
+    @media (max-width: 680px) {
+      width: 100%;
+    }
   }
 
   .isauww {
     content: "";
     width: 38%;
+    @media (max-width: 960px) {
+      width: 100%;
+    }
+  
+    @media (max-width: 680px) {
+      width: 100%;
+    }
   }
   h4:hover{
     width: 100%;
@@ -53,14 +68,35 @@ export const Item = styled.div`
 
   .isauwp{
     width: 28%;
+    @media (max-width: 960px) {
+      width: 100%;
+    }
+  
+    @media (max-width: 680px) {
+      width: 100%;
+    }
   }
 
   .uwhps{
     width: 69%;
+    @media (max-width: 960px) {
+      width: 100%;
+    }
+  
+    @media (max-width: 680px) {
+      width: 100%;
+    }
   }
 
   .sudoku{
     width: 51%;
+    @media (max-width: 960px) {
+      width: 100%;
+    }
+  
+    @media (max-width: 680px) {
+      width: 100%;
+    }
   }
 
   h5 {

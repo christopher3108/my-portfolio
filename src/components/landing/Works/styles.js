@@ -58,14 +58,35 @@ export const Item = styled.div`
   .map{
     content: "";
     width: 43%;
+    @media (max-width: 960px) {
+      width: 100%;
+    }
+  
+    @media (max-width: 680px) {
+      width: 100%;
+    }
   }
 
   .digitech{
     width: 66%;
+    @media (max-width: 960px) {
+      width: 100%;
+    }
+  
+    @media (max-width: 680px) {
+      width: 100%;
+    }
   }
 
   .tutor{
     width: 51%;
+    @media (max-width: 960px) {
+      width: 100%;
+    }
+  
+    @media (max-width: 680px) {
+      width: 100%;
+    }
   }
 
   h5 {
