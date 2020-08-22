@@ -1,0 +1,32 @@
+[
+  {
+    "id": 0,
+    "name": "LinkedIn",
+    "link": "https://linkedin.com/in/christopher-alexander-062644153",
+    "icon": "/icons/linkedin.svg"
+  },
+  {
+    "id": 1,
+    "name": "Github",
+    "link": "https://github.com/christopher3108",
+    "icon": "/icons/github.svg"
+  },
+  {
+    "id": 2,
+    "name": "Instagram",
+    "link": "https://www.instagram.com/christopheralexanderl/",
+    "icon": "/icons/instagram.svg"
+  },
+  {
+    "id": 3,
+    "name": "Gmail",
+    "link": "mailto:christ.alexander99@gmail.com",
+    "icon": "/icons/gmail.svg"
+  },
+  {
+    "id": 4,
+    "name": "Hackerrank",
+    "link": "https://www.hackerrank.com/christ_alexande1?hr_r=1",
+    "icon": "/icons/hackerrank.svg"
+  }
+]
