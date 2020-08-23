@@ -17,7 +17,7 @@ export const Works = () => {
           <Item key="slide-platform" as="a" href="https://www.map.co.id/" target="_blank" rel="noopener noreferrer" theme={theme}>
             <Card theme={theme}>
               <Content>
-                <h4 className="map">Mitra Adi Perkasa</h4>
+                <h4 className="map">Mitra Adiperkasa</h4>
                 <img src={map}/>
                 <p><b>Software Engineering Internship</b> <br></br><br></br>
                 Works in the application service team to develop a web sales report for Sephora (for internal usage) by utilizing Java Spring boot as its core backend
