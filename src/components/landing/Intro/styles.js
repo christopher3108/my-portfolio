@@ -82,7 +82,7 @@ export const Details = styled.div`
     }
 
     @media (max-width: 680px) {
-      font-size: 18pt;
+      font-size: 15pt;
     }
   }
 `;
