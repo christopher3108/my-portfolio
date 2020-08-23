@@ -27,12 +27,12 @@ export const Details = styled.div`
     color: ${({ theme }) => (theme === 'light' ? '#212121' : '#fff')};
 
     @media (max-width: 960px) {
-      font-size: 16pt;
+      font-size: 1.62671rem;
       mix-blend-mode: ${({ theme }) => (theme === 'light' ? 'unset' : 'difference')};
     }
 
     @media (max-width: 680px) {
-      font-size: 14pt;
+      font-size: 1.62671rem;
     }
   }
 
