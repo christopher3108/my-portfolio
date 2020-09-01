@@ -98,7 +98,7 @@ export const Projects = () => {
               </Card>
           </Item>
 
-          <Item key="slide-platform" as="a" href="https://github.com/christopher3108" target="_blank" rel="noopener noreferrer" theme={theme}>
+          <Item key="slide-platform" as="a" href="https://github.com/christopher3108/SudokuSolver" target="_blank" rel="noopener noreferrer" theme={theme}>
             <Card theme={theme} className="projects">
               <Content>
                 <h4 className="sudoku">Sudoku Board Solver</h4>
