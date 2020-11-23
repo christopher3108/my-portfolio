@@ -5,6 +5,8 @@ import { Container, Card } from 'components/common';
 import map from 'assets/illustrations/MAP_Logo.png';
 import digitech from 'assets/illustrations/digitech.png';
 import shoreline from'assets/illustrations/shoreline.png';
+import tog from 'assets/illustrations/tog.png';
+import ibm from 'assets/illustrations/ibm.png';
 import { Wrapper, Grid, Item, Content, Stats } from './styles';
 
 export const Works = () => {
@@ -14,6 +16,27 @@ export const Works = () => {
     <Wrapper as={Container} id="works">
       <h2>Work Experiences</h2>
       <Grid>
+          <Item key="slide-platform" as="a" href="https://www.map.co.id/" target="_blank" rel="noopener noreferrer" theme={theme}>
+            <Card theme={theme}>
+              <Content>
+                <h4 className="map">IBM</h4>
+                <img src={ibm}/>
+                <p><b>Software Engineering Internship</b> <br></br><br></br>
+                Develop a workplace management system to handle various COVID-19 related issues such as routine and on demand cleaning schedule in common and specific spots and contact tracing using React Hooks and Golang.
+                Project heavily works on coordinate / dot drawing and detection to handle every spot in the office floorplan.</p>
+              </Content>
+            </Card>
+          </Item>
+          <Item key="slide-platform" as="a" href="https://www.map.co.id/" target="_blank" rel="noopener noreferrer" theme={theme}>
+            <Card theme={theme}>
+              <Content>
+                <h4 className="map">Triple One Global</h4>
+                <img src={tog}/>
+                <p><b>Software Engineering Internship</b> <br></br><br></br>
+                Developing a cooperation management system to support small to medium business in various undeveloped area outside Jakarta, using Vue.JS and Spring booted Java.</p>
+              </Content>
+            </Card>
+          </Item>
           <Item key="slide-platform" as="a" href="https://www.map.co.id/" target="_blank" rel="noopener noreferrer" theme={theme}>
             <Card theme={theme}>
               <Content>
