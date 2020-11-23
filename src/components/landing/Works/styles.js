@@ -57,7 +57,7 @@ export const Item = styled.div`
 
   .ibm{
     content: "";
-    width: 15%;
+    width: 12%;
     @media (max-width: 960px) {
       width: 100%;
     }
