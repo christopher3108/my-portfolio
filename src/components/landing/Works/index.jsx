@@ -19,9 +19,9 @@ export const Works = () => {
           <Item key="slide-platform" as="a" href="https://www.map.co.id/" target="_blank" rel="noopener noreferrer" theme={theme}>
             <Card theme={theme}>
               <Content>
-                <h4 className="map">IBM</h4>
+                <h4 className="ibm">IBM</h4>
                 <img src={ibm}/>
-                <p><b>Software Engineering Internship</b> <br></br><br></br>
+                <p><b>Application Developer Internship</b> <br></br><br></br>
                 Develop a workplace management system to handle various COVID-19 related issues such as routine and on demand cleaning schedule in common and specific spots and contact tracing using React Hooks and Golang.
                 Project heavily works on coordinate / dot drawing and detection to handle every spot in the office floorplan.</p>
               </Content>
@@ -30,9 +30,9 @@ export const Works = () => {
           <Item key="slide-platform" as="a" href="https://www.map.co.id/" target="_blank" rel="noopener noreferrer" theme={theme}>
             <Card theme={theme}>
               <Content>
-                <h4 className="map">Triple One Global</h4>
+                <h4 className="tog">Triple One Global</h4>
                 <img src={tog}/>
-                <p><b>Software Engineering Internship</b> <br></br><br></br>
+                <p><b>Front End Developer Internship</b> <br></br><br></br>
                 Developing a cooperation management system to support small to medium business in various undeveloped area outside Jakarta, using Vue.JS and Spring booted Java.</p>
               </Content>
             </Card>
