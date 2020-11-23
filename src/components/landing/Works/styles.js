@@ -55,6 +55,30 @@ export const Item = styled.div`
     transition: .5s;
   }
 
+  .ibm{
+    content: "";
+    width: 8%;
+    @media (max-width: 960px) {
+      width: 100%;
+    }
+  
+    @media (max-width: 680px) {
+      width: 100%;
+    }
+  }
+  
+  .tog{
+    content: "";
+    width: 43%;
+    @media (max-width: 960px) {
+      width: 100%;
+    }
+  
+    @media (max-width: 680px) {
+      width: 100%;
+    }
+  }
+
   .map{
     content: "";
     width: 43%;
