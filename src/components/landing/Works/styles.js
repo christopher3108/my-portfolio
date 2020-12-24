@@ -104,10 +104,6 @@ export const Item = styled.div`
 
   .tutor{
     width: 51%;
-    img {
-      width: 260px;
-      height: 200px;
-    }
     @media (max-width: 960px) {
       width: 100%;
     }
@@ -115,6 +111,18 @@ export const Item = styled.div`
     @media (max-width: 680px) {
       width: 100%;
     }
+  }
+
+  .tutorImage{
+    width: 55%;
+    length: 55%;
+    margin-top: 2rem;
+    margin-bot: 2rem;
+  }
+
+  .digitechImage{
+    width: 200px;
+    height: 140px;
   }
 
   h5 {

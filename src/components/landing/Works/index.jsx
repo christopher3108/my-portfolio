@@ -54,7 +54,7 @@ export const Works = () => {
               <Content>
                 <h4 className="digitech">Wenardy Digitech Indonesia<br></br></h4>
                 <br></br>
-                <img src={digitech}/>
+                <img className="digitechImage" src={digitech}/>
                 <br></br>
                 <p><b>Web Developer Internship</b> <br></br><br></br>
                 Learn how to utilize laravel, reactJS, and json file to rebuilt a website. Utilizing API Development to get and push various information from other 
@@ -67,7 +67,7 @@ export const Works = () => {
             <Card theme={theme}>
               <Content>
                 <h4 className="tutor">Math Learning Center</h4>
-                <img width="260" height="200" src={shoreline}/>
+                <img className="tutorImage" src={shoreline}/>
                 <p><b>Upper-level Math Tutor (part-time)</b> <br></br><br></br>
                 Provide a drop in tutoring for students in the Shoreline Community College in the Math Learning Center for approximately 9-12 hours a week. </p>
               </Content>
