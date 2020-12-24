@@ -67,7 +67,7 @@ export const Works = () => {
             <Card theme={theme}>
               <Content>
                 <h4 className="tutor">Math Learning Center</h4>
-                <img width="260px" height="200px" src={shoreline}/>
+                <img width="260" height="200" src={shoreline}/>
                 <p><b>Upper-level Math Tutor (part-time)</b> <br></br><br></br>
                 Provide a drop in tutoring for students in the Shoreline Community College in the Math Learning Center for approximately 9-12 hours a week. </p>
               </Content>
