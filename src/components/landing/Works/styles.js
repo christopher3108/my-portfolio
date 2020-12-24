@@ -104,6 +104,10 @@ export const Item = styled.div`
 
   .tutor{
     width: 51%;
+    img {
+      width: 260px;
+      height: 200px;
+    }
     @media (max-width: 960px) {
       width: 100%;
     }
@@ -127,7 +131,8 @@ export const Content = styled.div`
 
   img{
     border-radius: 12px;
-    width: 65%;
+    width: 260px;
+    height: 160px;
     display: block;
     margin-left: auto;
     margin-right: auto;
