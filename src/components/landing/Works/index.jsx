@@ -56,7 +56,7 @@ export const Works = () => {
                 <br></br>
                 <img className="digitechImage" src={digitech}/>
                 <br></br>
-                <p><b>Web Developer Internship</b> <br></br><br></br>
+                <p><b>Software Development Consultant Internship</b> <br></br><br></br>
                 Learn how to utilize laravel, reactJS, and json file to rebuilt a website. Utilizing API Development to get and push various information from other 
                 website / application and encrypt the OAuth token using dotEnv package in the website development. Learn how to develop and deploy an end-to-end website by utilizing webpack.
                 </p>
