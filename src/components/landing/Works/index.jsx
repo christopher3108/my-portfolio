@@ -16,7 +16,7 @@ export const Works = () => {
     <Wrapper as={Container} id="works">
       <h2>Work Experiences</h2>
       <Grid>
-          <Item key="slide-platform" as="a" href="https://www.map.co.id/" target="_blank" rel="noopener noreferrer" theme={theme}>
+          <Item key="slide-platform" as="a" href="https://www.ibm.com/id-en" target="_blank" rel="noopener noreferrer" theme={theme}>
             <Card theme={theme}>
               <Content>
                 <h4 className="ibm">IBM</h4>
@@ -27,7 +27,7 @@ export const Works = () => {
               </Content>
             </Card>
           </Item>
-          <Item key="slide-platform" as="a" href="https://www.map.co.id/" target="_blank" rel="noopener noreferrer" theme={theme}>
+          <Item key="slide-platform" as="a" href="https://tog.co.id/" target="_blank" rel="noopener noreferrer" theme={theme}>
             <Card theme={theme}>
               <Content>
                 <h4 className="tog">Triple One Global</h4>
