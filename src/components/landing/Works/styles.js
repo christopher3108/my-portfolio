@@ -117,7 +117,7 @@ export const Item = styled.div`
     width: 55%;
     height: 55%;
     margin-top: 2rem;
-    margin-bot: 2rem;
+    margin-bottom: 4rem;
   }
 
   .digitechImage{
