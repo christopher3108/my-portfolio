@@ -115,7 +115,7 @@ export const Item = styled.div`
 
   .tutorImage{
     width: 55%;
-    length: 55%;
+    height: 55%;
     margin-top: 2rem;
     margin-bot: 2rem;
   }
