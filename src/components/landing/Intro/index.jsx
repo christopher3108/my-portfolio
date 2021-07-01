@@ -38,7 +38,6 @@ export const Intro = () => {
           <img src={dev} alt="I’m Christopher and I’m a Software engineer!"/>
         </Thumbnail>
       </IntroWrapper>
-      <img src={blm} className="center"/>
     </Wrapper>
   );
 };
